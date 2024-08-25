@@ -1,3 +1,5 @@
+[![Open PDF](https://img.shields.io/badge/Open-PDF-red?logo=adobe-acrobat-reader&style=for-the-badge)](https://github.com/Ender17133/BusinessAnalytics_assignment/blob/main/assignment4.pdf)
+
 # Assignment 4
 
 ## Question 1
